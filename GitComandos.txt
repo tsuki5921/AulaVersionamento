@@ -1,6 +1,8 @@
-git
+67
+-git
 - clone
 - add .
-- commit -"texto aqui dentro"
+- commit -" Uga uga"
 - push
 - status
+67
